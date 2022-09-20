@@ -1,0 +1,23 @@
+{
+    "name": "crn-loadspinner",
+    "text": "loadSpinner",
+    "image": "/node_modules/cronapp-framework-js/img/cron-icon/crn-plugin.svg",
+    "description": "loadSpinner",
+    "description_en_US": "loadSpinner",
+    "category": [
+        "PLUGINS"
+    ],
+    "templateURL": "${webcontent}/components/templates/loadspinner.template.html",
+    "designTimeHTML": "<img style=\" height:80px;width:100px;min-height:50px; min-width:50px;\" src=\"img/download.png\"/>",
+    "properties": {
+        "class": {
+            "order": 9999
+        },
+        "id": {
+            "order": 1
+        }
+    },
+    "attributesForPreview": [],
+    "childrenProperties": [],
+    "styles": []
+}
